@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "204499876606",
+      "firebase_url": "https://uniq-6835c.firebaseio.com",
+      "project_id": "uniq-6835c",
+      "storage_bucket": "uniq-6835c.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:204499876606:android:b86e00a75e48add40003af",
+          "android_client_info": {
+            "package_name": "com.example.UniQ"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "204499876606-f3ta9fmbhssiisi3up0n2lvu1376ugmd.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyD6IwQrjETGnqPnYiUpurJBRzQZm6Hkzlc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "204499876606-f3ta9fmbhssiisi3up0n2lvu1376ugmd.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
