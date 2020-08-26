@@ -1,4 +1,5 @@
-//AKHIL AND RAHUL CODE, IF ANY ERROR IN MOHIT'S CODE, TURN THIS ON
+//Mohith
+
 import 'package:UniQ/views/EnterMobile.dart';
 import 'package:UniQ/views/OTPVerified.dart';
 import 'package:firebase_auth/firebase_auth.dart';
